@@ -1,0 +1,4 @@
+numpy==2.4.3
+polars==1.39.3
+polars-runtime-32==1.39.3
+psycopg2-binary==2.9.11
